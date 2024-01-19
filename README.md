@@ -15,3 +15,5 @@ After the user inputs items to the list they will be displayed a list of options
 There will be a constantly active window where you can type in an option of your choosing. You will then be prompted depending on the option you chose.
 The only way to turn off the window, is exiting the program.
 Changes will not be displayed unless you choose to display the list after the change was made.
+
+This was developed in Python by Oliver Greco, with some collaboration with Jalen Grimes.
